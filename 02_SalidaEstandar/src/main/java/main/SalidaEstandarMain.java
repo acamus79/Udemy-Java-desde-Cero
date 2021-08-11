@@ -19,7 +19,8 @@ public class SalidaEstandarMain {
         // El Código va AQUI!!!
         
         System.out.println("Esta es la salida de mi programa");
-        
+        System.out.println("Otra linea");
+                
     }
 
 }
